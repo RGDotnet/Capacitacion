@@ -1,0 +1,21 @@
+extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+//-----------------------------------------------------------------------
+// <copyright file="%FileName%" company="Chanchuyo.com">
+//	%CurrentYear%(c) Chanchuyo.com
+// </copyright>
+//-----------------------------------------------------------------------
+extensions: .aspx .ascx
+<%-- 
+<copyright file="%FileName%" company="Chanchuyo.com">
+%CurrentYear%(c) Chanchuyo.com
+</copyright>
+--%>
+extensions: .vb
+'Sample license text.
+extensions:  .xml .config .xsd
+<!--
+<copyright file="%FileName%" company="Chanchuyo.com">
+%CurrentYear%(c) Chanchuyo.com
+</copyright>
+-->

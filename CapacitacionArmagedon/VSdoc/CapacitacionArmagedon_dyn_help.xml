@@ -1,0 +1,2093 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="CapacitacionArmagedon" Title="CapacitacionArmagedon Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore.AnotherThing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000018.html" LinkGroup="CapacitacionArmagedon">AnotherThing (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter.AnotherThing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000000E.html" LinkGroup="CapacitacionArmagedon">AnotherThing (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter.AnotherThing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000038.html" LinkGroup="CapacitacionArmagedon">AnotherThing (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore.AnotherThing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000003F.html" LinkGroup="CapacitacionArmagedon">AnotherThing (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.ArithmeticSum" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000090.html" LinkGroup="CapacitacionArmagedon">ArithmeticSum (Estructura)</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.ArithmeticSum2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000075.html" LinkGroup="CapacitacionArmagedon">ArithmeticSum2 (Estructura)</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore.BooleanProperty" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000026.html" LinkGroup="CapacitacionArmagedon">BooleanProperty (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter.BooleanProperty" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000000F.html" LinkGroup="CapacitacionArmagedon">BooleanProperty (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.CalculateOrder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000008F.html" LinkGroup="CapacitacionArmagedon">CalculateOrder (Método) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.CalculateOrder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000AA.html" LinkGroup="CapacitacionArmagedon">CalculateOrder (Método) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.CalculateOrder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000C3.html" LinkGroup="CapacitacionArmagedon">CalculateOrder (Método) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.CalculateOrder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000DB.html" LinkGroup="CapacitacionArmagedon">CalculateOrder (Método) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.CalculateOrder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000F4.html" LinkGroup="CapacitacionArmagedon">CalculateOrder (Método) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000F5.html" LinkGroup="CapacitacionArmagedon">CapacitacionArmagedon Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000000.html" LinkGroup="CapacitacionArmagedon">CapacitacionArmagedon.CodeMaid (Espacio de nombres)</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000074.html" LinkGroup="CapacitacionArmagedon">CapacitacionArmagedon.Ghost_Doc (Espacio de nombres)</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000059.html" LinkGroup="CapacitacionArmagedon">CapacitacionArmagedon.License_Header_Manager (Espacio de nombres)</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000AB.html" LinkGroup="CapacitacionArmagedon">CapacitacionArmagedon.StyleCop (Espacio de nombres)</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000DC.html" LinkGroup="CapacitacionArmagedon">CapacitacionArmagedon.VsDocman (Espacio de nombres)</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore.CodeMaidCleanUpBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000023_overloads--.html" LinkGroup="CapacitacionArmagedon">CodeMaidCleanUpBefore </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000014.html" LinkGroup="CapacitacionArmagedon">CodeMaidCleanUpBefore (Clase)</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore.CodeMaidCleanUpBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000025_overloads--.html" LinkGroup="CapacitacionArmagedon">CodeMaidCleanUpBefore </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore.CodeMaidCleanUpBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000024_overloads--.html" LinkGroup="CapacitacionArmagedon">CodeMaidCleanUpBefore </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter.CodeMaidCleanupAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000000B_overloads--.html" LinkGroup="CapacitacionArmagedon">CodeMaidCleanupAfter </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000001.html" LinkGroup="CapacitacionArmagedon">CodeMaidCleanupAfter (Clase)</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter.CodeMaidCleanupAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000000C_overloads--.html" LinkGroup="CapacitacionArmagedon">CodeMaidCleanupAfter </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter.CodeMaidCleanupAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000000D_overloads--.html" LinkGroup="CapacitacionArmagedon">CodeMaidCleanupAfter </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000027.html" LinkGroup="CapacitacionArmagedon">CodeMaidPuttingAllTogether (Clase)</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether.CodeMaidPuttingAllTogether" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000029_overloads--.html" LinkGroup="CapacitacionArmagedon">CodeMaidPuttingAllTogether </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether.CodeMaidPuttingAllTogether" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000028_overloads--.html" LinkGroup="CapacitacionArmagedon">CodeMaidPuttingAllTogether </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000034.html" LinkGroup="CapacitacionArmagedon">CodeMaidReorganizeAfter (Clase)</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000003C.html" LinkGroup="CapacitacionArmagedon">CodeMaidReorganizeBefore (Clase)</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000044.html" LinkGroup="CapacitacionArmagedon">CodeMaidSpadeAfter (Clase)</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter.CodeMaidSpadeAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000049_overloads--.html" LinkGroup="CapacitacionArmagedon">CodeMaidSpadeAfter </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter.CodeMaidSpadeAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000048_overloads--.html" LinkGroup="CapacitacionArmagedon">CodeMaidSpadeAfter </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000051.html" LinkGroup="CapacitacionArmagedon">CodeMaidSpadeBefore (Clase)</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeBefore.CodeMaidSpadeBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000056_overloads--.html" LinkGroup="CapacitacionArmagedon">CodeMaidSpadeBefore </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeBefore.CodeMaidSpadeBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000055_overloads--.html" LinkGroup="CapacitacionArmagedon">CodeMaidSpadeBefore </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether.ComplexMethod" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000002D.html" LinkGroup="CapacitacionArmagedon">ComplexMethod (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter.ComplexMethod" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000004B.html" LinkGroup="CapacitacionArmagedon">ComplexMethod (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeBefore.ComplexMethod" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000058.html" LinkGroup="CapacitacionArmagedon">ComplexMethod (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter.ComplexMethod" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000060.html" LinkGroup="CapacitacionArmagedon">ComplexMethod (Método) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore.ComplexMethod" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000006D.html" LinkGroup="CapacitacionArmagedon">ComplexMethod (Método) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.DoNothing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000008B.html" LinkGroup="CapacitacionArmagedon">DoNothing (Método) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.DoNothing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000A6.html" LinkGroup="CapacitacionArmagedon">DoNothing (Método) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.DoNothing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000BF.html" LinkGroup="CapacitacionArmagedon">DoNothing (Método) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.DoNothing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000D7.html" LinkGroup="CapacitacionArmagedon">DoNothing (Método) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.DoNothing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000F0.html" LinkGroup="CapacitacionArmagedon">DoNothing (Método) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether.DoWhilePileOPoo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000031.html" LinkGroup="CapacitacionArmagedon">DoWhilePileOPoo (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter.DoWhilePileOPoo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000004F.html" LinkGroup="CapacitacionArmagedon">DoWhilePileOPoo (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter.DoWhilePileOPoo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000064.html" LinkGroup="CapacitacionArmagedon">DoWhilePileOPoo (Método) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore.DoWhilePileOPoo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000071.html" LinkGroup="CapacitacionArmagedon">DoWhilePileOPoo (Método) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.Flag" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000B8.html" LinkGroup="CapacitacionArmagedon">Flag (Propiedad) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.Flag" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000E9.html" LinkGroup="CapacitacionArmagedon">Flag (Propiedad) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore.Foo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000001B.html" LinkGroup="CapacitacionArmagedon">Foo (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter.Foo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000012.html" LinkGroup="CapacitacionArmagedon">Foo (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter.Foo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000003A.html" LinkGroup="CapacitacionArmagedon">Foo (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore.Foo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000042.html" LinkGroup="CapacitacionArmagedon">Foo (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.GetSomeList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000008E.html" LinkGroup="CapacitacionArmagedon">GetSomeList (Método) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.GetSomeList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000A9.html" LinkGroup="CapacitacionArmagedon">GetSomeList (Método) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.GetSomeList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000C2.html" LinkGroup="CapacitacionArmagedon">GetSomeList (Método) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.GetSomeList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000DA.html" LinkGroup="CapacitacionArmagedon">GetSomeList (Método) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.GetSomeList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000F3.html" LinkGroup="CapacitacionArmagedon">GetSomeList (Método) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.GhostDocAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000082_overloads--.html" LinkGroup="CapacitacionArmagedon">GhostDocAfter </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000078.html" LinkGroup="CapacitacionArmagedon">GhostDocAfter (Clase)</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.GhostDocAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000083_overloads--.html" LinkGroup="CapacitacionArmagedon">GhostDocAfter </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.GhostDocBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000009D_overloads--.html" LinkGroup="CapacitacionArmagedon">GhostDocBefore </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000093.html" LinkGroup="CapacitacionArmagedon">GhostDocBefore (Clase)</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.GhostDocBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000009E_overloads--.html" LinkGroup="CapacitacionArmagedon">GhostDocBefore </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore.IntegerProperty" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000015.html" LinkGroup="CapacitacionArmagedon">IntegerProperty (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter.IntegerProperty" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000010.html" LinkGroup="CapacitacionArmagedon">IntegerProperty (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether.IterateOverJ" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000002E.html" LinkGroup="CapacitacionArmagedon">IterateOverJ (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter.IterateOverJ" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000004E.html" LinkGroup="CapacitacionArmagedon">IterateOverJ (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter.IterateOverJ" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000061.html" LinkGroup="CapacitacionArmagedon">IterateOverJ (Método) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore.IterateOverJ" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000006E.html" LinkGroup="CapacitacionArmagedon">IterateOverJ (Método) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether.LettersStringList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000002F.html" LinkGroup="CapacitacionArmagedon">LettersStringList (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter.LettersStringList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000050.html" LinkGroup="CapacitacionArmagedon">LettersStringList (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter.LettersStringList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000062.html" LinkGroup="CapacitacionArmagedon">LettersStringList (Método) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore.LettersStringList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000006F.html" LinkGroup="CapacitacionArmagedon">LettersStringList (Método) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000005A.html" LinkGroup="CapacitacionArmagedon">LicenseHeaderManagerAfter (Clase)</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter.LicenseHeaderManagerAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000005C_overloads--.html" LinkGroup="CapacitacionArmagedon">LicenseHeaderManagerAfter </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter.LicenseHeaderManagerAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000005B_overloads--.html" LinkGroup="CapacitacionArmagedon">LicenseHeaderManagerAfter </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000067.html" LinkGroup="CapacitacionArmagedon">LicenseHeaderManagerBefore (Clase)</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore.LicenseHeaderManagerBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000069_overloads--.html" LinkGroup="CapacitacionArmagedon">LicenseHeaderManagerBefore </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore.LicenseHeaderManagerBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000068_overloads--.html" LinkGroup="CapacitacionArmagedon">LicenseHeaderManagerBefore </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether.Matrix3By3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000030.html" LinkGroup="CapacitacionArmagedon">Matrix3By3 (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter.Matrix3By3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000004D.html" LinkGroup="CapacitacionArmagedon">Matrix3By3 (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter.Matrix3By3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000063.html" LinkGroup="CapacitacionArmagedon">Matrix3By3 (Método) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore.Matrix3By3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000070.html" LinkGroup="CapacitacionArmagedon">Matrix3By3 (Método) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.MyProperty1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000084.html" LinkGroup="CapacitacionArmagedon">MyProperty1 (Propiedad) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.MyProperty1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000009F.html" LinkGroup="CapacitacionArmagedon">MyProperty1 (Propiedad) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.MyProperty1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000B9.html" LinkGroup="CapacitacionArmagedon">MyProperty1 (Propiedad) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.MyProperty1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000D0.html" LinkGroup="CapacitacionArmagedon">MyProperty1 (Propiedad) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.MyProperty1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000EA.html" LinkGroup="CapacitacionArmagedon">MyProperty1 (Propiedad) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.MyProperty2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000085.html" LinkGroup="CapacitacionArmagedon">MyProperty2 (Propiedad) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.MyProperty2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000A0.html" LinkGroup="CapacitacionArmagedon">MyProperty2 (Propiedad) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.MyProperty2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000BA.html" LinkGroup="CapacitacionArmagedon">MyProperty2 (Propiedad) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.MyProperty2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000D1.html" LinkGroup="CapacitacionArmagedon">MyProperty2 (Propiedad) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.MyProperty2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000EB.html" LinkGroup="CapacitacionArmagedon">MyProperty2 (Propiedad) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.MyProperty3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000086.html" LinkGroup="CapacitacionArmagedon">MyProperty3 (Propiedad) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.MyProperty3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000A1.html" LinkGroup="CapacitacionArmagedon">MyProperty3 (Propiedad) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.MyProperty3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000BB.html" LinkGroup="CapacitacionArmagedon">MyProperty3 (Propiedad) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.MyProperty3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000D2.html" LinkGroup="CapacitacionArmagedon">MyProperty3 (Propiedad) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.MyProperty3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000EC.html" LinkGroup="CapacitacionArmagedon">MyProperty3 (Propiedad) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.MyProperty4" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000087.html" LinkGroup="CapacitacionArmagedon">MyProperty4 (Propiedad) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.MyProperty4" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000A2.html" LinkGroup="CapacitacionArmagedon">MyProperty4 (Propiedad) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.MyProperty4" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000BC.html" LinkGroup="CapacitacionArmagedon">MyProperty4 (Propiedad) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.MyProperty4" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000D3.html" LinkGroup="CapacitacionArmagedon">MyProperty4 (Propiedad) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.MyProperty4" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000ED.html" LinkGroup="CapacitacionArmagedon">MyProperty4 (Propiedad) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore.Numbers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000001D.html" LinkGroup="CapacitacionArmagedon">Numbers (Enumeración) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter.Numbers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000005.html" LinkGroup="CapacitacionArmagedon">Numbers (Enumeración) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.Numbers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000007C.html" LinkGroup="CapacitacionArmagedon">Numbers (Enumeración) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.Numbers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000097.html" LinkGroup="CapacitacionArmagedon">Numbers (Enumeración) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.Numbers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000B2.html" LinkGroup="CapacitacionArmagedon">Numbers (Enumeración) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.Numbers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000C8.html" LinkGroup="CapacitacionArmagedon">Numbers (Enumeración) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.Numbers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000E1.html" LinkGroup="CapacitacionArmagedon">Numbers (Enumeración) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore.PileOPoo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000016.html" LinkGroup="CapacitacionArmagedon">PileOPoo (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter.PileOPoo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000013.html" LinkGroup="CapacitacionArmagedon">PileOPoo (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether.PileOPoo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000032.html" LinkGroup="CapacitacionArmagedon">PileOPoo (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter.PileOPoo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000003B.html" LinkGroup="CapacitacionArmagedon">PileOPoo (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore.PileOPoo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000003D.html" LinkGroup="CapacitacionArmagedon">PileOPoo (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter.PileOPoo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000004A.html" LinkGroup="CapacitacionArmagedon">PileOPoo (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeBefore.PileOPoo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000057.html" LinkGroup="CapacitacionArmagedon">PileOPoo (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter.PileOPoo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000065.html" LinkGroup="CapacitacionArmagedon">PileOPoo (Método) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore.PileOPoo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000072.html" LinkGroup="CapacitacionArmagedon">PileOPoo (Método) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether.Property1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000002A.html" LinkGroup="CapacitacionArmagedon">Property1 (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter.Property1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000045.html" LinkGroup="CapacitacionArmagedon">Property1 (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeBefore.Property1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000052.html" LinkGroup="CapacitacionArmagedon">Property1 (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter.Property1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000005D.html" LinkGroup="CapacitacionArmagedon">Property1 (Propiedad) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore.Property1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000006A.html" LinkGroup="CapacitacionArmagedon">Property1 (Propiedad) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether.Property2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000002B.html" LinkGroup="CapacitacionArmagedon">Property2 (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter.Property2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000046.html" LinkGroup="CapacitacionArmagedon">Property2 (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeBefore.Property2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000053.html" LinkGroup="CapacitacionArmagedon">Property2 (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter.Property2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000005E.html" LinkGroup="CapacitacionArmagedon">Property2 (Propiedad) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore.Property2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000006B.html" LinkGroup="CapacitacionArmagedon">Property2 (Propiedad) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether.Property3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000002C.html" LinkGroup="CapacitacionArmagedon">Property3 (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter.Property3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000047.html" LinkGroup="CapacitacionArmagedon">Property3 (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeBefore.Property3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000054.html" LinkGroup="CapacitacionArmagedon">Property3 (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter.Property3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000005F.html" LinkGroup="CapacitacionArmagedon">Property3 (Propiedad) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore.Property3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000006C.html" LinkGroup="CapacitacionArmagedon">Property3 (Propiedad) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.ReturnDictionary" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000008C.html" LinkGroup="CapacitacionArmagedon">ReturnDictionary (Método) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.ReturnDictionary" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000A7.html" LinkGroup="CapacitacionArmagedon">ReturnDictionary (Método) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.ReturnDictionary" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000C0.html" LinkGroup="CapacitacionArmagedon">ReturnDictionary (Método) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.ReturnDictionary" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000D8.html" LinkGroup="CapacitacionArmagedon">ReturnDictionary (Método) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.ReturnDictionary" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000F1.html" LinkGroup="CapacitacionArmagedon">ReturnDictionary (Método) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.ReturnEmptyString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000008D.html" LinkGroup="CapacitacionArmagedon">ReturnEmptyString (Método) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.ReturnEmptyString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000A8.html" LinkGroup="CapacitacionArmagedon">ReturnEmptyString (Método) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.ReturnEmptyString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000C1.html" LinkGroup="CapacitacionArmagedon">ReturnEmptyString (Método) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.ReturnEmptyString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000D9.html" LinkGroup="CapacitacionArmagedon">ReturnEmptyString (Método) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.ReturnEmptyString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000F2.html" LinkGroup="CapacitacionArmagedon">ReturnEmptyString (Método) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.Someboolean" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000088.html" LinkGroup="CapacitacionArmagedon">Someboolean (Propiedad) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.Someboolean" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000A3.html" LinkGroup="CapacitacionArmagedon">Someboolean (Propiedad) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.Someboolean" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000D4.html" LinkGroup="CapacitacionArmagedon">Someboolean (Propiedad) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.Somenumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000089.html" LinkGroup="CapacitacionArmagedon">Somenumber (Propiedad) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.Somenumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000A4.html" LinkGroup="CapacitacionArmagedon">Somenumber (Propiedad) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.Somenumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000BD.html" LinkGroup="CapacitacionArmagedon">Somenumber (Propiedad) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.Somenumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000D5.html" LinkGroup="CapacitacionArmagedon">Somenumber (Propiedad) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.Somenumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000EE.html" LinkGroup="CapacitacionArmagedon">Somenumber (Propiedad) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore.Something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000019.html" LinkGroup="CapacitacionArmagedon">Something (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter.Something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000011.html" LinkGroup="CapacitacionArmagedon">Something (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter.Something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000039.html" LinkGroup="CapacitacionArmagedon">Something (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore.Something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000040.html" LinkGroup="CapacitacionArmagedon">Something (Propiedad) {CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.Something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000008A.html" LinkGroup="CapacitacionArmagedon">Something (Propiedad) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.Something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000A5.html" LinkGroup="CapacitacionArmagedon">Something (Propiedad) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.Something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000BE.html" LinkGroup="CapacitacionArmagedon">Something (Propiedad) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.Something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000D6.html" LinkGroup="CapacitacionArmagedon">Something (Propiedad) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.Something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000EF.html" LinkGroup="CapacitacionArmagedon">Something (Propiedad) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.StyleCopAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000B0_overloads--.html" LinkGroup="CapacitacionArmagedon">StyleCopAfter </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000AC.html" LinkGroup="CapacitacionArmagedon">StyleCopAfter (Clase)</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.StyleCopAfter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000B1_overloads--.html" LinkGroup="CapacitacionArmagedon">StyleCopAfter </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.StyleCopBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000CE_overloads--.html" LinkGroup="CapacitacionArmagedon">StyleCopBefore </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000C4.html" LinkGroup="CapacitacionArmagedon">StyleCopBefore (Clase)</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.StyleCopBefore" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000CF_overloads--.html" LinkGroup="CapacitacionArmagedon">StyleCopBefore </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.ArithmeticSum2.SumNumbers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000077.html" LinkGroup="CapacitacionArmagedon">SumNumbers (Método) {CapacitacionArmagedon.Ghost_Doc.ArithmeticSum2}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.ArithmeticSum.SumNumbers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000092.html" LinkGroup="CapacitacionArmagedon">SumNumbers (Método) {CapacitacionArmagedon.Ghost_Doc.ArithmeticSum}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether.SwitchI" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000033.html" LinkGroup="CapacitacionArmagedon">SwitchI (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidPuttingAllTogether}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter.SwitchI" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000004C.html" LinkGroup="CapacitacionArmagedon">SwitchI (Método) {CapacitacionArmagedon.CodeMaid.CodeMaidSpadeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter.SwitchI" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000066.html" LinkGroup="CapacitacionArmagedon">SwitchI (Método) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore.SwitchI" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000073.html" LinkGroup="CapacitacionArmagedon">SwitchI (Método) {CapacitacionArmagedon.License_Header_Manager.LicenseHeaderManagerBefore}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.VsDocman" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000E7_overloads--.html" LinkGroup="CapacitacionArmagedon">VsDocman </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000DD.html" LinkGroup="CapacitacionArmagedon">VsDocman (Clase)</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.VsDocman" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000E8_overloads--.html" LinkGroup="CapacitacionArmagedon">VsDocman </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.aboolean" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000AD.html" LinkGroup="CapacitacionArmagedon">aboolean (Campo) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.aboolean" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000DE.html" LinkGroup="CapacitacionArmagedon">aboolean (Campo) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore.anotherthing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000017.html" LinkGroup="CapacitacionArmagedon">anotherthing (Campo) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter.anotherthing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000002.html" LinkGroup="CapacitacionArmagedon">anotherthing (Campo) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter.anotherthing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000035.html" LinkGroup="CapacitacionArmagedon">anotherthing (Campo) {CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore.anotherthing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000003E.html" LinkGroup="CapacitacionArmagedon">anotherthing (Campo) {CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.anumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000AE.html" LinkGroup="CapacitacionArmagedon">anumber (Campo) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.anumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000DF.html" LinkGroup="CapacitacionArmagedon">anumber (Campo) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore.onpooing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000001A.html" LinkGroup="CapacitacionArmagedon">onpooing (Campo) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter.onpooing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000003.html" LinkGroup="CapacitacionArmagedon">onpooing (Campo) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter.onpooing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000036.html" LinkGroup="CapacitacionArmagedon">onpooing (Campo) {CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore.onpooing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000041.html" LinkGroup="CapacitacionArmagedon">onpooing (Campo) {CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.someboolean" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000079.html" LinkGroup="CapacitacionArmagedon">someboolean (Campo) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.someboolean" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000094.html" LinkGroup="CapacitacionArmagedon">someboolean (Campo) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.someboolean" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000C5.html" LinkGroup="CapacitacionArmagedon">someboolean (Campo) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.ArithmeticSum2.somedecimal" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000076.html" LinkGroup="CapacitacionArmagedon">somedecimal (Campo) {CapacitacionArmagedon.Ghost_Doc.ArithmeticSum2}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.ArithmeticSum.somedecimal" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000091.html" LinkGroup="CapacitacionArmagedon">somedecimal (Campo) {CapacitacionArmagedon.Ghost_Doc.ArithmeticSum}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.somenumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000007A.html" LinkGroup="CapacitacionArmagedon">somenumber (Campo) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.somenumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000095.html" LinkGroup="CapacitacionArmagedon">somenumber (Campo) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.somenumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000C6.html" LinkGroup="CapacitacionArmagedon">somenumber (Campo) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore.something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000001C.html" LinkGroup="CapacitacionArmagedon">something (Campo) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanUpBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter.something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000004.html" LinkGroup="CapacitacionArmagedon">something (Campo) {CapacitacionArmagedon.CodeMaid.CodeMaidCleanupAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter.something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000037.html" LinkGroup="CapacitacionArmagedon">something (Campo) {CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore.something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000043.html" LinkGroup="CapacitacionArmagedon">something (Campo) {CapacitacionArmagedon.CodeMaid.CodeMaidReorganizeBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocAfter.something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_000000000000007B.html" LinkGroup="CapacitacionArmagedon">something (Campo) {CapacitacionArmagedon.Ghost_Doc.GhostDocAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.Ghost_Doc.GhostDocBefore.something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_0000000000000096.html" LinkGroup="CapacitacionArmagedon">something (Campo) {CapacitacionArmagedon.Ghost_Doc.GhostDocBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopAfter.something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000AF.html" LinkGroup="CapacitacionArmagedon">something (Campo) {CapacitacionArmagedon.StyleCop.StyleCopAfter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.StyleCop.StyleCopBefore.something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000C7.html" LinkGroup="CapacitacionArmagedon">something (Campo) {CapacitacionArmagedon.StyleCop.StyleCopBefore}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="CapacitacionArmagedon.VsDocman.VsDocman.something" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:CapacitacionArmagedon.chm::/topic_00000000000000E0.html" LinkGroup="CapacitacionArmagedon">something (Campo) {CapacitacionArmagedon.VsDocman.VsDocman}</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
