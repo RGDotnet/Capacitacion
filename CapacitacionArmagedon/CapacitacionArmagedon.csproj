@@ -66,6 +66,7 @@
   <ItemGroup />
   <ItemGroup>
     <None Include="CapacitacionArmagedon.licenseheader" />
+    <None Include="Diapositivas\Extensiones de productividad en visual studio.pptx" />
     <None Include="Recursos\Concentrado de Reglas.xlsx" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
